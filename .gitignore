@@ -5,10 +5,6 @@ Debug/
 Release/
 x64/
 x86/
-*.sln
-*.slnx
-*.vcxproj.filters
-*.vcxproj
 Lesson 1-2/
 Lesson_2-3/
 Lesson 4-5/
@@ -31,6 +27,12 @@ Urok 19/
 Urok 21/
 urok/
 Test/
+Arduino/
+CleanUp_disk/
+C++ 5 Urok/
+C++OOP3_urok/
+N91 Disk Cleaner/
+N91_Disk_Cleaner_Legacy_Backup_*/
 !*.h
 !**/*.h
 !*.hpp
