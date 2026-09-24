@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Itstep - P51\C++\N91 Disk Cleaner\DiskCleaner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Itstep - P51\C++\N91 Disk Cleaner\Localization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Itstep - P51\C++\N91 Disk Cleaner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Itstep - P51\C++\N91 Disk Cleaner\LICENSE.txt" />
+    <None Include="E:\Itstep - P51\C++\N91 Disk Cleaner\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Itstep - P51\C++\N91 Disk Cleaner\resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A017AED2-00C6-3E85-8A69-5B5B48CFB8B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{976D8632-CD18-3BF2-B6C0-108019C427C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

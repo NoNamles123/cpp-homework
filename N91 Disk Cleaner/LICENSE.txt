@@ -1,0 +1,8 @@
+N91 DISK CLEANER SOURCE CODE LICENSE
+====================================
+
+You may study and modify the source code for personal use.
+
+Redistribution, resale, re-uploading, or publishing the source code as your own product is not permitted.
+
+The compiled application is available separately as a free download.

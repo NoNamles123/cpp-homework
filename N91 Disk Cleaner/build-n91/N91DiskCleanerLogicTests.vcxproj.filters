@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Itstep - P51\C++\N91 Disk Cleaner\tests\CleanupLogicTests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Itstep - P51\C++\N91 Disk Cleaner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{976D8632-CD18-3BF2-B6C0-108019C427C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/N91DiskCleaner.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/Experimental.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/Nightly.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/Continuous.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/NightlyMemoryCheck.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/N91DiskCleanerLogicTests.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/RUN_TESTS.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/ALL_BUILD.dir
+E:/Itstep - P51/C++/N91 Disk Cleaner/build-verify-20260904/CMakeFiles/ZERO_CHECK.dir

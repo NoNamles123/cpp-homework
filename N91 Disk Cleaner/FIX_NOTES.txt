@@ -1,0 +1,46 @@
+FIX 1
+=====
+Fixed the following Visual Studio error:
+
+    '(': illegal token on right side of '::'
+
+Cause: windows.h defined a max macro that conflicted with std::max.
+
+Changes:
+- Added #define NOMINMAX before windows.h.
+- Changed calls to (std::max)(...).
+- Added <iterator> for std::size.
+
+FIX 2
+=====
+Corrected cleanup statistics and diagnostics:
+
+- Missing, busy, protected, unavailable, and already deleted entries are counted as skips.
+- Real errors are grouped by category and issue type instead of counted once per nested file.
+- No more than 20 example messages are logged for each real error type.
+- Additional matching messages are summarized in one hidden-message line.
+
+FIX 3
+=====
+Fixed overlapping live status text during scanning and cleanup:
+
+- Status controls now paint an opaque background.
+- Previous text is erased before each status update.
+- Live progress includes the current category number and name.
+
+FIX 4
+=====
+Improved filesystem safety:
+
+- Win32 error 1920 is treated as an unavailable skipped entry.
+- Generic reparse points and symbolic links are not followed.
+- Mounted/offline Windows image trees are detected and left untouched.
+
+FEATURE 1
+=========
+Added runtime localization:
+
+- English, Ukrainian, and Russian are available from the header language menu.
+- The initial language follows the Windows display language, with English fallback.
+- The interface, category names, dialogs, reports, counters, and status text update at runtime.
+- Slavic plural forms are handled for Ukrainian and Russian.
