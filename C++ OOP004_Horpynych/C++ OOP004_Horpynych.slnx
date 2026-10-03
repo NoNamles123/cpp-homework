@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C++ OOP004_Horpynych/C++ OOP004_Horpynych.vcxproj" />
+</Solution>
